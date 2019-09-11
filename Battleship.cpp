@@ -12,6 +12,7 @@ int main() {
     int randomNumC = rand() % 3 + 1;
     int guessR;
     int guessC;
+    int d;
 
     vector<string> battleship(9, " ");
 
